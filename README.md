@@ -7,5 +7,4 @@ STEP 2:
     Créer un labyrinthe parfait simple.
 
 STEP 3:
-    Utiliser un algorithme de création de labyrinthe parfait.
-    (voir http://www.astrolog.org/labyrnth/algrithm.htm)
+    Utiliser un algorithme de création de labyrinthe parfait. (voir http://www.astrolog.org/labyrnth/algrithm.htm)
