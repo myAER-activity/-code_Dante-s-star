@@ -25,17 +25,12 @@
 
 void free_maze(char **maze)
 {
-    for (int i = 0; maze[i]; i += 1) {
-        free(maze[i]);
-    }
-    free(maze);
+    // CODE HERE
 }
 
 void print_maze(char **maze)
 {
-    for (int i = 0; maze[i]; i += 1) {
-        printf("%s\n", maze[i]);
-    }
+    // CODE HERE
 }
 
 void set_maze(char **maze, int x, int y)
